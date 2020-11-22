@@ -8,9 +8,9 @@
     - [커밋 메시지](#커밋-메시지commit-message)
 - :mailbox_with_mail:[참고사항](#mailbox_with_mail-참고사항)
 
-# :envelope_with_arrow: DENVELOP :envelope_with_arrow:
+# :envelope_with_arrow: DENVELOPE :envelope_with_arrow:
 ## :mailbox_with_mail: 소개
-Denvelop(덴벨롭)은 개발에 필요한 공부를 하며 채워나가는 **개발대백과** 프로젝트이다.
+Denvelope(덴벨롭)은 개발에 필요한 공부를 하며 채워나가는 **개발대백과** 프로젝트이다.
 
 ## :mailbox_with_mail: 진행 방식
 ### :page_facing_up: 문서 새로 작성
