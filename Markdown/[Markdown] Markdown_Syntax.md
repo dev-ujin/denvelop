@@ -361,19 +361,19 @@ String str = "Hello Denvelop";
 깃허브에서 이미지를 사용하려만 레파지토리에 이미지파일을 업로드 되어있어야한다. url링크는 상대경로와 절대경로 둘다 사용 가능하다 
 
 ##### 첫번째 방법 : ![이미지 alt명](url 링크) 
-![독일여행](./resources/Regensburg.jpg) 
+![독일여행](../resources/Regensburg.jpg) 
     
-    ![독일여행](./resources/Regensburg.jpg) 
+    ![독일여행](../resources/Regensburg.jpg) 
 
 ##### 두번째 방법 : `<img>` 태그 사용 
-<img src="./resources/happybirthday.jpg" width="400px" alt="Happy Birthday">
+<img src="../resources/happybirthday.jpg" width="400px" alt="Happy Birthday">
 
-    <img src="./resources/happybirthday.jpg" width="400px" alt="Happy Birthday">
+    <img src="../resources/happybirthday.jpg" width="400px" alt="Happy Birthday">
 
 ##### 이미지에 링크를 걸기 : 마크다운 이미지 코드를 링크 코드로 묶어준다.
-[![Github](./resources/octocat.png)](https://github.com)
+[![Github](../resources/octocat.png)](https://github.com)
 
-    [![Github](./resources/octocat.png)](https://github.com)
+    [![Github](../resources/octocat.png)](https://github.com)
 
 *****    
 ## 13. 이모지 (EMOJI)
